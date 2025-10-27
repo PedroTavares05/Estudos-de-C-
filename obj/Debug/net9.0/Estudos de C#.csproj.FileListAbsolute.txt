@@ -12,3 +12,18 @@ C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C
 C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.pdb
 C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.genruntimeconfig.cache
 C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\ref\Estudos de C#.dll
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\bin\Debug\net9.0\Estudos de C#.exe
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\bin\Debug\net9.0\Estudos de C#.deps.json
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\bin\Debug\net9.0\Estudos de C#.runtimeconfig.json
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\bin\Debug\net9.0\Estudos de C#.dll
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\bin\Debug\net9.0\Estudos de C#.pdb
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.GeneratedMSBuildEditorConfig.editorconfig
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.AssemblyInfoInputs.cache
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.AssemblyInfo.cs
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.csproj.CoreCompileInputs.cache
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.sourcelink.json
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.dll
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\refint\Estudos de C#.dll
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.pdb
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\Estudos de C#.genruntimeconfig.cache
+S:\#TecInfoWeb-T-342-MATUTINO\Pedro henrique\UC-16\Estudos-de-C-\obj\Debug\net9.0\ref\Estudos de C#.dll
