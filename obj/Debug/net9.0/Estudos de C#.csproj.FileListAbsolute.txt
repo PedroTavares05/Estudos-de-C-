@@ -1,0 +1,14 @@
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\bin\Debug\net9.0\Estudos de C#.exe
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\bin\Debug\net9.0\Estudos de C#.deps.json
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\bin\Debug\net9.0\Estudos de C#.runtimeconfig.json
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\bin\Debug\net9.0\Estudos de C#.dll
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\bin\Debug\net9.0\Estudos de C#.pdb
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.AssemblyInfoInputs.cache
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.AssemblyInfo.cs
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.csproj.CoreCompileInputs.cache
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.dll
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\refint\Estudos de C#.dll
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.pdb
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\Estudos de C#.genruntimeconfig.cache
+C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Estudos de C#\obj\Debug\net9.0\ref\Estudos de C#.dll
