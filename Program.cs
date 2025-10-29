@@ -15,13 +15,13 @@
 
 
 
-// //Diferenças entre Conver e Parse
+//Diferenças entre Conver e Parse
 
 // int C = Convert.ToInt32(null); // vai converter o valor null para zero, melhor usar convert nesses casos
 // Console.WriteLine(C);
 
-// //int D = int.Parse("null"); vai dar erro pois não entende o valor null.
-// //Console.WriteLine(D);  vai dar erro
+//int D = int.Parse("null"); vai dar erro pois não entende o valor null.
+//Console.WriteLine(D);  vai dar erro
 
 // string Numercao = "15";
 
@@ -50,14 +50,52 @@
 // }
 
 
-Console.WriteLine("Escreva uma letra");
-string letra = Console.ReadLine();
-if (letra == "a" || letra == "e" || letra == "o" || letra == "u" || letra == "i")
+// using System.Globalization;
+
+// Console.WriteLine("Escreva uma letra");
+// string letra = Console.ReadLine() ?? "";
+// if (letra == "a" || letra == "e" || letra == "o" || letra == "u" || letra == "i")
+// {
+//     Console.WriteLine("É uma vogal!");
+// }
+
+// else if (int.TryParse(letra, out _) || decimal.TryParse(letra, out _))
+// {
+//     Console.WriteLine("ISSO É UM NUMERO");
+// }
+
+
+
+
+
+
+
+
+
+//testando o switch case
+string EntradaDeDados = Console.ReadLine() ?? "";
+switch (EntradaDeDados)
 {
-    Console.WriteLine("É uma vogal!");
+    case "a":
+    case "e":
+    case "o":
+    case "i":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+    default: 
+        Console.WriteLine("Não é uma vogal");
+        break;
+
 }
 
-else
-{
-    Console.WriteLine("NÃO É UMA VOGAL");
-}
+
+
+
+
+
+
+
+
+
+
