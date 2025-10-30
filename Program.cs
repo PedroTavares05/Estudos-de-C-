@@ -110,3 +110,14 @@ else
 {
     Console.WriteLine("vou outro dia");
 }
+
+int MaiordeIdade = 17;
+bool AutorizacaoDosPais = true;
+if (MaiordeIdade >= 18 || AutorizacaoDosPais)
+{
+    Console.WriteLine("pode entrar");
+}
+else
+{
+    Console.WriteLine("entrada não autorizada");
+}
