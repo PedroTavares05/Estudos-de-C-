@@ -73,29 +73,40 @@
 
 
 //testando o switch case
-string EntradaDeDados = Console.ReadLine() ?? "";
-switch (EntradaDeDados)
-{
-    case "a":
-    case "e":
-    case "o":
-    case "i":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-    default: 
-        Console.WriteLine("Não é uma vogal");
-        break;
+// string EntradaDeDados = Console.ReadLine() ?? "";
+// switch (EntradaDeDados)
+// {
+//     case "a":
+//     case "e":
+//     case "o":
+//     case "i":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
+//     default: 
+//         Console.WriteLine("Não é uma vogal");
+//         break;
 
+// }
+bool precensa70 = false;
+double nota = 7.5;
+if (precensa70 && nota >= 7)
+{
+    Console.WriteLine("aprovado");
+}
+else
+{
+    Console.WriteLine("reprovado");
 }
 
+bool EstaChovendo = true;
+bool EstaTarde = true;
 
-
-
-
-
-
-
-
-
-
+if (!EstaChovendo && !EstaTarde)
+{
+    Console.WriteLine("vou pedalar");
+}
+else
+{
+    Console.WriteLine("vou outro dia");
+}
