@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj": {}
+    "s:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj": {}
   },
   "projects": {
-    "S:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj": {
+    "s:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj",
+        "projectUniqueName": "s:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj",
         "projectName": "Estudos de C#",
-        "projectPath": "S:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj",
+        "projectPath": "s:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\Estudos de C#.csproj",
         "packagesPath": "C:\\Users\\sala303b\\.nuget\\packages\\",
-        "outputPath": "S:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\obj\\",
+        "outputPath": "s:\\#TecInfoWeb-T-342-MATUTINO\\Pedro henrique\\UC-16\\Estudos-de-C-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
