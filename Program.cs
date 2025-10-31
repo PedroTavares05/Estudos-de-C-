@@ -88,36 +88,36 @@
 //         break;
 
 // }
-bool precensa70 = false;
-double nota = 7.5;
-if (precensa70 && nota >= 7)
-{
-    Console.WriteLine("aprovado");
-}
-else
-{
-    Console.WriteLine("reprovado");
-}
+// bool precensa70 = false;
+// double nota = 7.5;
+// if (precensa70 && nota >= 7)
+// {
+//     Console.WriteLine("aprovado");
+// }
+// else
+// {
+//     Console.WriteLine("reprovado");
+// }
 
-bool EstaChovendo = true;
-bool EstaTarde = true;
+// bool EstaChovendo = true;
+// bool EstaTarde = true;
 
-if (!EstaChovendo && !EstaTarde)
-{
-    Console.WriteLine("vou pedalar");
-}
-else
-{
-    Console.WriteLine("vou outro dia");
-}
+// if (!EstaChovendo && !EstaTarde)
+// {
+//     Console.WriteLine("vou pedalar");
+// }
+// else
+// {
+//     Console.WriteLine("vou outro dia");
+// }
 
-int MaiordeIdade = 17;
-bool AutorizacaoDosPais = true;
-if (MaiordeIdade >= 18 || AutorizacaoDosPais)
-{
-    Console.WriteLine("pode entrar");
-}
-else
-{
-    Console.WriteLine("entrada não autorizada");
-}
+// int MaiordeIdade = 17;
+// bool AutorizacaoDosPais = true;
+// if (MaiordeIdade >= 18 || AutorizacaoDosPais)
+// {
+//     Console.WriteLine("pode entrar");
+// }
+// else
+// {
+//     Console.WriteLine("entrada não autorizada");
+// }

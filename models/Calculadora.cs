@@ -9,9 +9,8 @@ namespace Estudos_de_C_.models
     {
         public void Somar(float x, float y)
         {
-            Console.WriteLine($"A soma dos dois savlores{x} e {y} = {x + y}");
+            Console.WriteLine($"A soma dos dois savlores {x} e {y} = {x + y}");
         }
-
 
         public void Subtracao(float x, float y)
         {
