@@ -34,17 +34,19 @@ namespace Estudos_de_C_.models
         {
             Double radiante = Angulo * Math.PI / 180;
             double Sen = Math.Sin(radiante);
-            Console.WriteLine($"O seno de {Angulo} é = {Sen}");
+            Console.WriteLine($"O seno de {Angulo} é = {Math.Round(Sen, 4)}");
         }
         public void ConoSeno(double Angulo)
         {
-            Double CosSe = Math.Cos(Angulo);
-            Console.WriteLine($"O angulo do  Coseno é = {CosSe}");
+            Double radiante = Angulo * Math.PI / 180;
+            Double CosSe = Math.Cos(radiante);
+            Console.WriteLine($"O angulo do  Coseno é = {Math.Round(CosSe, 4)}");
         }
         public void Tange (Double Angulo)
         {
             Double radiante = Angulo * Math.PI / 180;
-            Console.WriteLine($"O angulo ce {Angulo} da Tangente é = {Tange}");
+            Double Tandente = Math.Tan(radiante);
+            Console.WriteLine($"O angulo ce {Angulo} da Tangente é = {Math.Round(Tandente, 4)}");
         }
     }
 }

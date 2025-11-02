@@ -7,3 +7,5 @@ calc.Multiplication(2, 5);
 calc.Subtracao(9, 5);
 calc.Potenciacao(3, 3);
 calc.Seno(9);
+calc.ConoSeno(9);
+calc.Tange(9);
