@@ -9,3 +9,10 @@ calc.Potenciacao(3, 3);
 calc.Seno(9);
 calc.ConoSeno(9);
 calc.Tange(9);
+int Numero = 10;
+
+Console.WriteLine(Numero);
+Numero++;
+Console.WriteLine(Numero);
+calc.RaizQuadrada(9);
+calc.RaizQuadrada(200);

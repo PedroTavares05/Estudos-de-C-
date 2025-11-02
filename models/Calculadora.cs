@@ -42,11 +42,16 @@ namespace Estudos_de_C_.models
             Double CosSe = Math.Cos(radiante);
             Console.WriteLine($"O angulo do  Coseno é = {Math.Round(CosSe, 4)}");
         }
-        public void Tange (Double Angulo)
+        public void Tange(Double Angulo)
         {
             Double radiante = Angulo * Math.PI / 180;
             Double Tandente = Math.Tan(radiante);
             Console.WriteLine($"O angulo ce {Angulo} da Tangente é = {Math.Round(Tandente, 4)}");
+        }
+        public void RaizQuadrada(Double x)
+        {
+            Double Raiz = Math.Sqrt(x);
+            Console.WriteLine($"A raiz de {x} = {Raiz}");
         }
     }
 }
