@@ -25,5 +25,26 @@ namespace Estudos_de_C_.models
         {
             Console.WriteLine($"a divisão dos numeros {x} e {y} = {x / y}");
         }
+        public void Potenciacao(int x, int y)
+        {
+            Double Pot = Math.Pow(x, y);
+            Console.WriteLine($"{x} elevaado a {y} = {Pot}");
+        }
+        public void Seno(double Angulo)
+        {
+            Double radiante = Angulo * Math.PI / 180;
+            double Sen = Math.Sin(radiante);
+            Console.WriteLine($"O seno de {Angulo} é = {Sen}");
+        }
+        public void ConoSeno(double Angulo)
+        {
+            Double CosSe = Math.Cos(Angulo);
+            Console.WriteLine($"O angulo do  Coseno é = {CosSe}");
+        }
+        public void Tange (Double Angulo)
+        {
+            Double radiante = Angulo * Math.PI / 180;
+            Console.WriteLine($"O angulo ce {Angulo} da Tangente é = {Tange}");
+        }
     }
 }

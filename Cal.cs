@@ -5,3 +5,5 @@ calc.Somar(20, 30);
 calc.Division(20, 2);
 calc.Multiplication(2, 5);
 calc.Subtracao(9, 5);
+calc.Potenciacao(3, 3);
+calc.Seno(9);
