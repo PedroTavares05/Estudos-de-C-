@@ -1,18 +1,34 @@
-using Estudos_de_C_.models;
-Calculadora calc = new Calculadora();
+// fazendo estruturas de repetição for, while e do while
 
-calc.Somar(20, 30);
-calc.Division(20, 2);
-calc.Multiplication(2, 5);
-calc.Subtracao(9, 5);
-calc.Potenciacao(3, 3);
-calc.Seno(9);
-calc.ConoSeno(9);
-calc.Tange(9);
-int Numero = 10;
+int tabuada = 10;
 
-Console.WriteLine(Numero);
-Numero++;
-Console.WriteLine(Numero);
-calc.RaizQuadrada(9);
-calc.RaizQuadrada(200);
+for(int contagem = 0; contagem<=  10; contagem++ )
+{
+    Console.WriteLine($"{tabuada} x {contagem} = {tabuada * contagem}");
+}
+tabuada = 9;
+for (int regressivo = 10; regressivo >= 0; regressivo--)
+{
+    Console.WriteLine($" a tabuada  regresiva de 9 é = {tabuada * regressivo}");   
+}
+
+
+
+// using Estudos_de_C_.models;
+// Calculadora calc = new Calculadora();
+
+// calc.Somar(20, 30);
+// calc.Division(20, 2);
+// calc.Multiplication(2, 5);
+// calc.Subtracao(9, 5);
+// calc.Potenciacao(3, 3);
+// calc.Seno(9);
+// calc.ConoSeno(9);
+// calc.Tange(9);
+// int Numero = 10;
+
+// Console.WriteLine(Numero);
+// Numero++;
+// Console.WriteLine(Numero);
+// calc.RaizQuadrada(9);
+// calc.RaizQuadrada(200);

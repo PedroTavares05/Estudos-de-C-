@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj": {}
+    "c:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj": {
+    "c:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj",
+        "projectUniqueName": "c:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj",
         "projectName": "Estudos de C#",
-        "projectPath": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj",
+        "projectPath": "c:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj",
         "packagesPath": "C:\\Users\\Phtsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\obj\\",
+        "outputPath": "c:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
