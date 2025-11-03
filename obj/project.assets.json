@@ -1,35 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Phtsa\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\CDI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj",
+      "projectUniqueName": "C:\\Users\\CDI\\Documents\\phtsantos\\Estudos-de-C-\\Estudos de C#.csproj",
       "projectName": "Estudos de C#",
-      "projectPath": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\Estudos de C#.csproj",
-      "packagesPath": "C:\\Users\\Phtsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\Estudos-de-C-\\obj\\",
+      "projectPath": "C:\\Users\\CDI\\Documents\\phtsantos\\Estudos-de-C-\\Estudos de C#.csproj",
+      "packagesPath": "C:\\Users\\CDI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CDI\\Documents\\phtsantos\\Estudos-de-C-\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Phtsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\CDI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -37,8 +32,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -51,12 +46,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -73,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

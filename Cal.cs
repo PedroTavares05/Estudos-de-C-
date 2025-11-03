@@ -1,25 +1,31 @@
-int Contagem = 0;
-while (Contagem <= 10)
+// int Contagem = 0;
+// while (Contagem <= 10)
+// {
+
+//     Console.WriteLine("Escolha um numero para fazer a tabuada dele de 0 a 10");
+//     string Escolha = Console.ReadLine() ?? "";
+//     int Tabuada;
+//     int.TryParse(Escolha, out Tabuada);
+
+//     for (int contagem = 0; contagem <= 10; contagem++)
+//     {
+
+//         Console.WriteLine($"{Escolha} x {contagem} = {Tabuada * contagem}");
+//     }
+//     Contagem++;
+//     if (Contagem == 6)
+//     {
+//         break;
+//     }
+// }
+int numero = 0, soma = 0;
+do
 {
-
-    Console.WriteLine("Escolha um numero para fazer a tabuada dele de 0 a 10");
-    string Escolha = Console.ReadLine() ?? "";
-    int Tabuada;
-    int.TryParse(Escolha, out Tabuada);
-
-    for (int contagem = 0; contagem <= 10; contagem++)
-    {
-
-        Console.WriteLine($"{Escolha} x {contagem} = {Tabuada * contagem}");
-    }
-    Contagem++;
-    if (Contagem == 6)
-    {
-        break;
-    }
-}
-
-
+    Console.WriteLine("Digite um numero(0 para sair)");
+    numero = Convert.ToInt32(Console.ReadLine() ?? "");
+    soma += numero;
+} while (numero != 0);
+Console.WriteLine($"A soma dos valoires totais é de {soma} ");
 
 
 // fazendo estruturas de repetição for, while e do while
