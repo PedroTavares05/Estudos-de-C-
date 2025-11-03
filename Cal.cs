@@ -1,16 +1,40 @@
+int Contagem = 0;
+while (Contagem <= 10)
+{
+
+    Console.WriteLine("Escolha um numero para fazer a tabuada dele de 0 a 10");
+    string Escolha = Console.ReadLine() ?? "";
+    int Tabuada;
+    int.TryParse(Escolha, out Tabuada);
+
+    for (int contagem = 0; contagem <= 10; contagem++)
+    {
+
+        Console.WriteLine($"{Escolha} x {contagem} = {Tabuada * contagem}");
+    }
+    Contagem++;
+    if (Contagem == 6)
+    {
+        break;
+    }
+}
+
+
+
+
 // fazendo estruturas de repetição for, while e do while
 
-int tabuada = 10;
+// int tabuada = 10;
 
-for(int contagem = 0; contagem<=  10; contagem++ )
-{
-    Console.WriteLine($"{tabuada} x {contagem} = {tabuada * contagem}");
-}
-tabuada = 9;
-for (int regressivo = 10; regressivo >= 0; regressivo--)
-{
-    Console.WriteLine($" a tabuada  regresiva de 9 é = {tabuada * regressivo}");   
-}
+// for(int contagem = 0; contagem<=  10; contagem++ )
+// {
+//     Console.WriteLine($"{tabuada} x {contagem} = {tabuada * contagem}");
+// }
+// tabuada = 9;
+// for (int regressivo = 10; regressivo >= 0; regressivo--)
+// {
+//     Console.WriteLine($" a tabuada  regresiva de 9 é = {tabuada * regressivo}");   
+// }
 
 
 
